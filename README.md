@@ -3,16 +3,39 @@
 <hr>
 <h2 align= 'center'> This is Bhavya Dhingra</h2>
 <h3 align= 'center'> 🌟 Competitve Programmer || Web Developer 🌟 </h3>
-
-
-<h3> About Me <h3>
+<img align="right" alt="My Coding Life" src="https://github.com/Bhavya0020/Bhavya0020/blob/main/Images/me.gif" width="450" >
+<h3> About Me </h3>
   
-- 👨‍💻 *Mentor* at ASN IN NSUT ...
-- 🔭 I’m currently working on *Some Machine Learning Web App Project*
+- 👨‍💻 *Technical Team Lead* at NSS NSUT.
+- 🔭 I’m currently working on *Some Machine Learning Project*
 - 🌱 I’m currently learning *Natural Language Processing*
 - 💬 Ask me about *DSA, CS core subjects, Algorithms, Machine Leaning, Web*
 
-### Contact Me At:
+<h2>Contributions:</h2>
+<a href="https://github-readme-stats.vercel.app/api?username=Bhavya0020&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhavya0020&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya0020&langs_count=10&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya0020&langs_count=20&theme=radical" />
+</a>
+
+<br>
+<hr>
+<br>
+
+
+ ![Bhavya's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Bhavya0020&theme=xcode)
+ <p align ="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya0020&theme=black-ice" />
+  </p>
+ 
+<br>
+<hr>
+<br>
+
+
+
+### Contact:
 <p align = "center">
   <a href="https://www.facebook.com/bhavya.dhi/">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
