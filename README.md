@@ -6,7 +6,7 @@
 <img align="right" alt="My Coding Life" src="https://github.com/Bhavya0020/Bhavya0020/blob/main/Images/me.gif" width="450" >
 <h3> About Me </h3>
   
-- 👨‍💻 *Technical Team Lead* at NSS NSUT.
+- 👨‍💻 *Technical Head* at NSS NSUT.
 - 🔭 I’m currently working on *Some Machine Learning Project*
 - 🌱 I’m currently learning *Natural Language Processing*
 - 💬 Ask me about *DSA, CS core subjects, Algorithms, Machine Leaning, Web*
