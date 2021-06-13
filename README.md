@@ -77,7 +77,7 @@
   <a href="https://leetcode.com/bhavya0020/">
     <img src="https://github.com/Bhavya0020/Bhavya0020/blob/main/Images/LeetCode_logo.png" width="4%" alt="Leetcode"/>
   </a>
-   <a href="#">
+   <a href="http://bhavyadhingra.ml/">
     <img src="https://img.icons8.com/cotton/64/000000/domain.png" width="5%" alt= "Portfolio"/>
   </a>
 </p>
