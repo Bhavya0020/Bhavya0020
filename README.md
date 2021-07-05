@@ -9,7 +9,7 @@
 - 👨‍💻 *Technical Head* at NSS NSUT.
 - 🔭 I’m currently working on *Some Machine Learning Project*
 - 🌱 I’m currently learning *Natural Language Processing*
-- 💬 Ask me about *DSA, CS core subjects, Algorithms, Machine Leaning, Web*
+- 💬 Ask me about *Data Structures and Algorithms, CS core subjects, Machine Learning, Web Developement*
 
 <h2>Contributions:</h2>
 <a href="https://github-readme-stats.vercel.app/api?username=Bhavya0020&show_icons=true&theme=radical">
