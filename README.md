@@ -2,7 +2,7 @@
 <h1 align= 'center'> Hi there!  Welcome to my Github page! <img src="https://github.com/Bhavya0020/Bhavya0020/blob/main/Images/Hi.gif" width="29px"> </h1>
 <hr>
 <h2 align= 'center'> This is Bhavya Dhingra</h2>
-<h3 align= 'center'> 🌟 Competitve Programmer || Web Developer 🌟 </h3>
+<h3 align= 'center'> 🌟 Data Analytics || Machine Learning 🌟 </h3>
 <img align="right" alt="My Coding Life" src="https://github.com/Bhavya0020/Bhavya0020/blob/main/Images/me.gif" width="450" >
 <h3> About Me </h3>
   
